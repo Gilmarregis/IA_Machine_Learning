@@ -34,6 +34,13 @@ eV_p = h\nu - W
 - Matplotlib
 - scikit-learn
 
+## 📊 Funcionalidades
+- Ajuste por regressão linear usando **método de mínimos quadrados**.
+- Visualização gráfica do ajuste e dados experimentais.
+- Implementação opcional via **Machine Learning (scikit-learn)** para previsões.
+- Cálculo de \( h \) e \( W \) a partir do ajuste.
+
+
 ---
 
 ## 🚀 Executando Localmente
